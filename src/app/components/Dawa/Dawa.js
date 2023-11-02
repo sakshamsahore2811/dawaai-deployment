@@ -5,9 +5,9 @@ import section_img from "../../../../public/images/shopper.png"
 
 const Dawa = () => {
     return (
-        <div className={styles.container}>
+        <div className={styles.container} id='whydawa'>
             <h1>WHY DAWA.AI?</h1>
-            {/* <p>We are dedicated team consisting of graduates from IITs</p> */}
+            <p>We are dedicated team consisting of graduates from IITs</p> 
             <div className={styles.shopper}>
                 <div>
                     <Image src={section_img} width={630} height={490} />

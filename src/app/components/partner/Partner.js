@@ -7,7 +7,7 @@ const Partner = () => {
         <div className={styles.container}>
             <div className={styles.partner}>
                 <h3>Let’s Connect! </h3>
-                <button><Link href="#">Join us</Link></button>
+                <button><Link href="https://app.dawaai.co.in/login">Join us</Link></button>
             </div>
 
 

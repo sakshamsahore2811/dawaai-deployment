@@ -80,6 +80,7 @@
 /* saiket */
 /* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,600&family=Raleway:wght@500&display=swap'); */
 
+
 .container {
     background-color: white;
 }
@@ -98,15 +99,16 @@
 }
 
 .container p {
-    color: #7B8292;
+    color: #868fa4;
     text-align: center;
     /* font-family: 'Raleway'; */
     font-family: sans-serif;
-    font-size: 15px;
+    font-size: 25px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
     margin-bottom: 1rem;
+    margin-bottom: 35px;
 }
 
 .shopper {
@@ -132,7 +134,7 @@
     height: 87px;
     flex-shrink: 0;
     border-radius: 15px;
-    border: 3px solid #7F82FF;
+    border: 4px solid #7F82FF;
     background: #FFF;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }

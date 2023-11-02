@@ -63,7 +63,7 @@ const Offering = () => {
         // </div>
 
 
-        <div className={styles.container}>
+        <div className={styles.container} id='ourofferings'>
             <h1>OFFERINGS</h1>
 
             <div className={styles.card}>
@@ -87,7 +87,6 @@ const Offering = () => {
                 </div>
                 <div className={styles.modulecard}>
                     <Image style={{height:"70%", objectFit:"contain"}} src={salereturn} />
-                    <p style={{ fontFamily: 'Poppins',fontWeight: 600 }}> Sales    </p>
                     <p style={{ fontFamily: 'Poppins',fontWeight: 600 }}> Return    </p>
                     <p style={{ fontFamily: 'Poppins',fontWeight: 600 }}> Module    </p>
                 </div>

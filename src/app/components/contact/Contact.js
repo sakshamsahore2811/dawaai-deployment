@@ -6,17 +6,20 @@ import Image from 'next/image';
 // import email from "../../../../public/images/email.png";
 // import call from "../../../../public/images/call.png";
 
-import calls from "../../../../public/images/calls.png";
-import map from "../../../../public/images/map.png";
-import mail from "../../../../public/images/mail.png";
+// import calls from "../../../../public/images/calls.png";
+// import map from "../../../../public/images/map.png";
+// import mail from "../../../../public/images/mail.png";
 
 
+import calls from"../../../../public/images/location-1.png"
+import map from "../../../../public/images/msg.png"
+import mail from "../../../../public/images/phone.png"
 
 
 
 const Contact = () => {
     return (
-        <div className={styles.container}>
+        <div className={styles.container} id='contactus'>
             <h1>CONTACT US</h1>
             <div className={styles.main}>
                 <div className={styles.contact}>

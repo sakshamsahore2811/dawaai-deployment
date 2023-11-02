@@ -1,9 +1,9 @@
 import React from 'react';
 import styles from "./style.module.css";
 import Image from 'next/image';
-import card_1 from "../../../../public/images/grow.svg";
-import card_2 from "../../../../public/images/goal.svg";
-import card_3 from "../../../../public/images/heart.svg";
+import card_1 from "../../../../public/images/vision.png";
+import card_2 from "../../../../public/images/mission.png";
+import card_3 from "../../../../public/images/values.png";
 
 
 const Cards = () => {

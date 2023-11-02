@@ -30,7 +30,7 @@ const Footer = () => {
       </div>
       <hr/>
       <div className={styles.end}>
-        <span>&copy; Copywrite Dawa.ai All Rights Reserved</span>
+        <span>&copy; Copyright Dawa.ai All Rights Reserved</span>
         <span>Designed by Dawa.ai Web Team</span>
       </div>
     </div>
